@@ -1,4 +1,3 @@
-//Name: Jinyu JIAO    Student ID: 260881046
 //import java.util.ArrayList; // Only used to create a list of prefix, domain and email to test the method. 
 //import java.util.List;		// Only used to create a list of prefix, domain and email to test the method. 
 import java.util.Scanner;
